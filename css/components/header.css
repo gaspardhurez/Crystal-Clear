@@ -44,9 +44,55 @@
 .header-pictograms img {
     height: 52px;
     width: 50px; 
-    margin-left: 10px;
+    margin-left: 0px;
 }
 
+.header-pictograms i {font-size: 25px;
+    padding: 5px 8px;
+    color: #0057B8;
+}
+
+.header-pictograms i:hover {color: white;
+    background-color: #0057B8;
+    border-radius: 5px;
+}
+
+.header-pictograms li { display: inline-block;
+    position: relative;
+}
+
+.sub-menu {display: none;
+    position: absolute;
+    width: 150px;
+    background-color: #0057B8;
+    margin: 0px;
+    border-radius: 10px;
+    padding: 0px;
+
+}
+
+.sub-menu li {
+    padding:15px 10px;
+    width: 130px;
+}
+.sub-menu li a {color: white;
+    font-weight: 600;
+}
+
+.sub-menu li:hover > a 
+{color: #0057B8;
+}
+
+.sub-menu li:hover {
+    background-color: white;
+    border-radius: 10px;
+}
+
+
+
+
+#avatar-header:hover .sub-menu {display: block;
+}
 
 .card2 {
     display: flex;
