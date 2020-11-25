@@ -27,6 +27,9 @@ body{
 	background-color: #f7fbff;
 }
 
+body#subscribe {
+	background-color: #DDEDFF;
+}
 	
 h1 {
 	font-family: 'Montserrat';
