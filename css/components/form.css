@@ -22,6 +22,7 @@ input { font-family: Montserrat;
 border-radius:0px;
 width: 357px;
 height: 30px;
+display: inline-block
 }
 
 #message {height: 150px;
