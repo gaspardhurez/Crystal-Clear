@@ -3,7 +3,7 @@
 margin: 0px auto ;
 }
 
-.container-contacttus h2 {margin-top: 0px;
+.container-contactus h2 {margin-top: 0px;
 	margin-bottom: 30px;
 }
 
@@ -11,7 +11,8 @@ margin: 0px auto ;
 
 }
 
-#wedo { margin-top:45px;
+#wedo { margin-top:35px;
+	text-align: center;
  }
 
 .contactus {display: flex;

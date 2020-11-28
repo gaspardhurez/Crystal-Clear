@@ -1,0 +1,21 @@
+.footer {background-color: #0057B8;
+	height: 60px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.footer p {color: white;
+font-weight: 700;
+margin: 0px 15px;
+padding: 15px;
+
+}
+
+.footer-text {display: flex;
+align-items: center;
+}
+
+.footer p:hover {color: #0057B8;
+background-color: white;
+border-radius: 10px;
+}
