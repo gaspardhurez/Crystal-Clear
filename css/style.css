@@ -30,7 +30,8 @@ body{
 	font-family: 'Montserrat', serif;
 	font-size: 16px;
 	margin: 0px;
-	  text-align: justify;
+	background-color: #f7fbff;
+	text-align: justify;
 }
 
 body#subscribe {
