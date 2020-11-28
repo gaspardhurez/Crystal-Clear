@@ -7,6 +7,10 @@
 height: 300px;
 }
 
+.container-text-productsheet {
+ 	margin: 10px 50px;
+ }
+
 .container-productsheet p {width: 450px;
 height: 300px;
 padding-top: 20px;
