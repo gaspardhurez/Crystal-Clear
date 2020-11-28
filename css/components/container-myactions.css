@@ -1,0 +1,42 @@
+.container-myactions {display: flex;
+	justify-content: space-between;
+	margin: 150px;
+}
+
+.settings-menu p {color: #0057B8;
+	font-weight: 700;
+	font-size: 20px;
+	margin: 0px;
+	padding: 15px 10px;
+	border-radius: 10px;
+}
+
+.settings-menu p:hover {color: white;
+background-color: #0057B8;
+}
+
+.container-myengagement {margin: 0px 0px;
+	display: flex;
+	margin: 0px 40px;
+}
+
+.container-myactions img {width: 350px;
+height: 280px;
+border-radius: 30%;
+}
+
+.donation-corner input {width: 150px;}
+
+.donation-corner {margin: 5px 140px;
+	border:solid;
+	padding: 30px;
+	border-width: 5px;
+	border-color: #0057B8;
+}
+
+.donation-corner p, h2 {text-align: center;
+}
+
+.donation-corner h2 {margin-bottom: 40px;
+	margin-top: 0px;
+}

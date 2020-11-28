@@ -1,17 +1,23 @@
-
-.container-aboutus {width: 400px;
-margin: 0px auto ;
+.container-aboutus {
+	display: flex;
+	margin: 30px 50px;
 }
 
-.container-aboutus h2 {margin-top: 0px;
-	margin-bottom: 30px;
-}
-
-.container-aboutus p { margin: 20px 0px ;
-
-}
-
-#wedo { margin-top: 70px
+.container-aboutus img { 
+width: 180px;
+height: 180px;
+margin-top: 40px;
  }
 
+
+ .container-text-aboutus {
+ 	margin: 10px 50px;
+ }
+
+  .container-text-aboutus p {
+margin: 40px 0px;
+ }
+
+ .container-aboutus h3 {font-size: 30px;
+ }
 

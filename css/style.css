@@ -9,7 +9,9 @@
 @import url("components/container-ouractions.css");
 @import url("components/container-items.css");
 @import url("components/container-signin.css");
-@import url("components/container-seemoreaboutus.css");
+@import url("components/container-contactus.css");
+@import url("components/container-productsheet.css");
+@import url("components/container-myactions.css");
 @import url("components/avatar.css");
 @import url("components/button-banner.css");
 @import url("components/button-items.css");
@@ -18,6 +20,8 @@
 @import url("components/card1.css");
 @import url("components/pictograms.css");
 @import url("components/form.css");
+@import url("components/subscribe-overlay.css");
+
 
 
 
@@ -27,6 +31,8 @@ body{
 	font-size: 16px;
 	margin: 0px;
 	background-color: #f7fbff;
+	  text-align: justify;
+
 }
 
 body#subscribe {
@@ -55,4 +61,7 @@ h3 {
 
 a {
 	text-decoration: none;
+}
+
+input {box-shadow: 3px 3px 3px grey;
 }

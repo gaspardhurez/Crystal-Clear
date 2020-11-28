@@ -1,0 +1,5 @@
+.subscribe {display: none;
+}
+
+.subscribe:target {display:block;
+}

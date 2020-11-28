@@ -2,11 +2,7 @@
 	margin: 0px auto ;
 }
 
-.form p { margin: 25px auto;
-}
-
-.aboutus {display: flex;
-margin: 75px 50px;
+.form p { margin: 40px auto;
 }
 
 .form h2 {margin: 0px
@@ -28,10 +24,30 @@ display: inline-block
 #message {height: 150px;
 }
 
-#submit {background-color: #0057B8;
+.buttons-form {background-color: #0057B8;
 color:white;
 width: 150px;
 font-weight: 700;
 height: 50px;
-margin-top: 45px;
+font-size: 20px;
+border-radius: 50px;
+}
+
+.buttons-form a {color:white;
+}
+
+#button-aboutus {width:auto;
+height:25px;
+padding: 12px 28px;
+margin: 15px auto;
+}
+
+#button-submit {margin: 15px auto;
+}
+
+.container-form {display: flex;
+	width: 370px;
+}
+
+#map {margin: 0px 20px;
 }
