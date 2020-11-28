@@ -34,7 +34,7 @@ border-radius: 30%;
 	border-color: #0057B8;
 }
 
-.donation-corner p, h2 {text-align: center;
+.donation-corner p, .donation-corner h2 {text-align: center;
 }
 
 .donation-corner h2 {margin-bottom: 40px;
